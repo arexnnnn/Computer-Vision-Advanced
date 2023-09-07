@@ -1,0 +1,1 @@
+# Thresholding is the binarization of an image and converting it to 0 i.e. black and 1 i.e. white
