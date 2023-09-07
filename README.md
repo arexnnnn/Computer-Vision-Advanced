@@ -62,4 +62,9 @@ Applications: Edge detection is vital in computer vision for object recognition,
 Hope you learned something new here!
 Thanks for your time.
 
+Top 3 free resources where you can learn Computer Vision on youtube-
+- Murtaza's Workshop
+- Sentdex
+- FreeCodeCamp
+- Campusx
 
